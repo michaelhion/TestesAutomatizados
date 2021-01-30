@@ -1,6 +1,6 @@
 #language: pt
 #enconding: UFT-8
-
+@login
 Funcionalidade: Login
 	
 	Cenario: usuario invalido
